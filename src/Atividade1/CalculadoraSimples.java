@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class CalculadoraSimples {
     public static void main(String[] args) {
 
-        System.out.println("\n=== CALCULADORA ===");
+        System.out.println("\n=== CALCULADORA SIMPLES ===");
 
         Scanner sc = new Scanner(System.in);
 
